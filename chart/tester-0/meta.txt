@@ -1,5 +1,5 @@
 {
-	"title" : "tester-0",
+	"title" : "sliceofcake's test chart",
 	"info" : "This is a test chart for audio/video synchronization.",
 	"creator" : "sliceofcake",
 	"charter" : "raw.githubusercontent.com/sliceofcake/my-ftb9-files/master/user/sliceofcake.txt",
