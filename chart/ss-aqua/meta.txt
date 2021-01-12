@@ -1,0 +1,9 @@
+{
+	"title" : "SS Aqua",
+	"info" : "",
+	"origin" : "Pokémon Gen II",
+	"charter" : "../../user/sliceofcake.txt",
+	"icon" : "",
+	"audio" : "./aud.mp3.inv",
+	"chart" : "./nte.txt"
+}
