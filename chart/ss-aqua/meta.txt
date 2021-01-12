@@ -6,5 +6,6 @@
 	"icon" : "",
 	"audio" : "./aud.mp3.inv",
 	"audio-decode-function" : "reverse",
-	"chart" : "./nte.txt"
+	"chart" : "./nte.txt",
+	"lane-count" : 9
 }
