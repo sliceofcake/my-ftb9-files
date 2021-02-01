@@ -5,7 +5,7 @@
 	"0"  : ["KeyA|0","KeyS|0","KeyD|0","KeyF|0","KeyG|0","KeyH|0","KeyJ|0","KeyK|0","KeyL|0","Semicolon|0","Quote|0"],
 	
 	"//" : "Chart Note Offset, More Positive Means Notes Will Be Delayed More, Unit:Seconds",
-	"1"  : 100.0,
+	"1"  : 0.1,
 	
 	"//" : "Chart Note Scroll Speed, Unit:Screens-Per-Second",
 	"2"  : 1.1,
